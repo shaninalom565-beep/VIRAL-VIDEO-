@@ -1,0 +1,6 @@
+{
+  "name": "VIRAL VIDEO",
+  "description": "Watch • Upload • Earn. Modern video sharing platform with Creator Studio, Monetization Analytics, Shorts, and Ad Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
